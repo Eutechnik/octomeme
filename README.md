@@ -10,3 +10,11 @@ Things to think about:
 * Some setup instructions for GitHub (GitHub Desktop/command line use).
 * Some general branching concepts (pull requests).
 * Octomemes.
+
+
+#Python editors?
+Whats a good choice?
+
+* Sublime Text?
+* http://www.wxpython.org/ ?
+* http://www.pygtk.org/ ?
