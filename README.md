@@ -13,9 +13,7 @@ Things to think about:
 
 
 #Python editors?
-Whats a good choice?
+Whats a good choice? As per Shane's suggestion, we (India and I) should just use Sublime. It's probbaly the most useful, in general.
 
 * Sublime Text? https://www.sublimetext.com/ (I think this is a good one, as you can switch syntax highlighting between different languages etc)
-* http://www.wxpython.org/ ?
-* http://www.pygtk.org/ ?
-* Just use sublime. Don't bother with the others.
+
