@@ -1,7 +1,8 @@
 # redesigned-octo-meme
 A Python Thingus.
 
-# A place to Python something simple.
+# Why are you Octomeming?.
+Brian and India would like to learn Python and thought this would be a good idea.
 
 Things to think about:
 * A simple purpose for the code.
