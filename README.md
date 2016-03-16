@@ -15,6 +15,6 @@ Things to think about:
 #Python editors?
 Whats a good choice?
 
-* Sublime Text?
+* Sublime Text? https://www.sublimetext.com/ (I think this is a good one, as you can switch syntax highlighting between different languages etc)
 * http://www.wxpython.org/ ?
 * http://www.pygtk.org/ ?
