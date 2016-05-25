@@ -1,3 +1,5 @@
+:icons: font
+
 ==== Implement the entity classes
 
 The class wizard has already created a file and the empty class "Task". We will
