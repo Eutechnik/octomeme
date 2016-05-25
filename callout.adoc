@@ -1,0 +1,17 @@
+==== Implement the entity classes
+
+The class wizard has already created a file and the empty class "Task". We will
+manually enhance this class as follows:
+
+[source,javascript]
+----
+export abstract class Task {  //  <1>
+  public id: string?;
+  public label: string?;
+}
+----
+
+<1> In the first line of code, we have defined an *abstract class* named Task. Classes in
+N4JS are similar to classes in ECMAScript 2015 or Java. The concept of an abstract
+class is borrowed from Java. This means that we cannot have a _direct instance_
+of Task in our model, but we may have _subclasses_ of Task.
